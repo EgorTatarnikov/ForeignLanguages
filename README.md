@@ -23,7 +23,9 @@
   
 Изучение небольшого количества наиболее важных слов позволяет быстро приступить к чтению и просмотру контента на родном языке.
 
-### 📚 [Words Training](https://github.com/EgorTatarnikov/WordsTraining)
+### <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordsTraining/main/assets/wt_badge.svg" width="24" height="24" alt="wt badge"> [Words Training](https://github.com/EgorTatarnikov/WordsTraining)
+
+
 Desktop-приложение на **C++ Builder** для тренировки перевода и правописания английских слов.
 
 ### 🔁 Iterator (Word Repeater)
