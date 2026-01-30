@@ -12,7 +12,7 @@
 
 ## 📦 Проекты
 
-### 💙 Word by Heart
+### <img src="https://raw.githubusercontent.com/EgorTatarnikov/ForeignLanguages/main/WordByHeart_v2.svg" width="24" height="24" alt="wt badge"> Word by Heart
 Методика изучения английского языка через чтение книг и просмотр сериалов в оригинале.
 
 В основе методики лежит **NLP-программа**, которая:
@@ -28,7 +28,7 @@
 
 Desktop-приложение на **C++ Builder** для тренировки перевода и правописания английских слов.
 
-### 🔁 Iterator (Word Repeater)
+### <img src="https://raw.githubusercontent.com/EgorTatarnikov/ForeignLanguages/main/Iterator/Assets/Sprites/iterator_r205.svg" width="24" height="24" alt="wt badge"> Iterator (Word Repeater)
 Android-приложение на **Unity** для интервального повторения английских слов.
 
 ### 📒 Прочее
