@@ -12,7 +12,7 @@
 
 ## 📦 Проекты
 
-### <img src="https://raw.githubusercontent.com/EgorTatarnikov/ForeignLanguages/main/WordByHeart_v2.svg" width="24" height="24" alt="wt badge"> Word by Heart
+### <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="24" height="24" alt="wt badge"> Word by Heart
 Методика изучения английского языка через чтение книг и просмотр сериалов в оригинале.
 
 В основе методики лежит **NLP-программа**, которая:
