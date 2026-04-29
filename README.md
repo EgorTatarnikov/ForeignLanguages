@@ -12,7 +12,7 @@
 
 ## 📦 Проекты
 
-### <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="24" height="24" alt="wt badge"> [Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)
+### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="24" alt="wt badge"> [Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)
 Методика изучения английского языка через чтение книг и просмотр сериалов в оригинале.
 
 В основе методики лежит **NLP-программа**, которая:
@@ -23,12 +23,12 @@
   
 Изучение небольшого количества наиболее важных слов позволяет быстро приступить к чтению и просмотру контента на родном языке.
 
-### <img src="https://raw.githubusercontent.com/EgorTatarnikov/WordsTraining/main/assets/wt_badge.svg" width="24" height="24" alt="wt badge"> [Words Training](https://github.com/EgorTatarnikov/WordsTraining)
+### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordsTraining/main/assets/wt_badge.svg" width="24" alt="wt badge"> [Words Training](https://github.com/EgorTatarnikov/WordsTraining)
 
 
 Desktop-приложение на **C++ Builder** для тренировки перевода и правописания английских слов.
 
-### <img src="https://raw.githubusercontent.com/EgorTatarnikov/ForeignLanguages/main/Iterator/Assets/Sprites/iterator_r205.svg" width="24" height="24" alt="wt badge"> Iterator (Word Repeater)
+### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/ForeignLanguages/main/Iterator/Assets/Sprites/iterator_r205.svg" width="24" alt="wt badge"> Iterator (Word Repeater)
 Android-приложение на **Unity** для интервального повторения английских слов.
 
 ### 📒 Прочее
