@@ -12,16 +12,17 @@
 
 ## 📦 Проекты
 
-### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/WordByHeart_v2.svg" width="24" alt="wt badge"> [Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)
+### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordByHeart/main/src/logo/WordByHeart_v3.svg" width="24" alt="wt badge"> [Word by Heart](https://github.com/EgorTatarnikov/WordByHeart)
 Методика изучения английского языка через чтение книг и просмотр сериалов в оригинале.
 
 В основе методики лежит **NLP-программа**, которая:
 - анализирует текст
 - выбирает **наиболее важные слова**
+- строит **IPA-транскрипцию**
 - переводит лексику **с учётом контекста**
-- формирует двусторонние карточки слов для изучения
+- формирует таблицы и двусторонние карточки для изучения
   
-Изучение небольшого количества наиболее важных слов позволяет быстро приступить к чтению и просмотру контента на родном языке.
+Изучение небольшого количества наиболее важных слов позволяет быстро приступить к чтению и просмотру контента на языке оригинала.
 
 ### <img align="center" src="https://raw.githubusercontent.com/EgorTatarnikov/WordsTraining/main/assets/wt_badge.svg" width="24" alt="wt badge"> [Words Training](https://github.com/EgorTatarnikov/WordsTraining)
 
@@ -37,7 +38,7 @@ Android-приложение на **Unity** для интервального п
 - **[Грамматика](https://github.com/EgorTatarnikov/ForeignLanguages/tree/main/English%20Grammar)** – mind map и заметки, систематизирующие базовую грамматику.
 
 ## 🛠 Cтек
-Python · scikit-learn · C# · Unity · C++ · C++Builder
+Python · NLP · C# · Unity · C++ · C++Builder
 
 ## 🔗 Полезные ресурсы
 - **[lingvolive.com](https://www.lingvolive.com/)** – онлайн словарь с правильным произношением и примерами из текстов
